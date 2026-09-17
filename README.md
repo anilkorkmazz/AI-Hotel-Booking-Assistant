@@ -230,7 +230,7 @@ GET /api/v1/Room/search?location=Maldives&startDate=2025-08-05&endDate=2025-08-1
 ## 📹 Video Demo
 
 🎥 **Watch the video here:**  
-[Demo Video](https://www.youtube.com/watch?v=IE2689xsmKs)
+[Demo Video]()
 
 ---
 
