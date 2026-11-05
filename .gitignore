@@ -1,0 +1,28 @@
+
+# .NET build files
+**/bin/
+**/obj/
+
+# Frontend
+**/node_modules/
+**/dist/
+**/build/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Local configuration
+**/appsettings.Local.json
+**/appsettings.Development.local.json
+
+# Private keys
+*.pfx
+*.p12
+*.key
+
+# IDE and system files
+.vs/
+.idea/
+.DS_Store
